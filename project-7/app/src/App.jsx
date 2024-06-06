@@ -107,7 +107,7 @@ function App() {
       ),
     },
   ]);
-  // Create a client
+  // Create a clientt
   const queryClient = new QueryClient();
 
   return (
